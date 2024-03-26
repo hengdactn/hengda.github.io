@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://hengdactn.github.io/hengda.github.io/
 date_format: "ordinal"
 title: 飞翔
-subtitle: "公众号：程序员"
-description: "飞翔的个人博客，公众号：程序员"
-keywords: 飞翔, Zhuang Ma, mzlogin, mazhuang, 程序员
+subtitle: "我心飞翔"
+description: "飞翔的个人博客，我心飞翔！"
+keywords: 飞翔, 上网，Trade，Program，
 timezone: Asia/Shanghai
 encoding: "utf-8"
 # 页面左下角显示的年份
